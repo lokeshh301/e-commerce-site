@@ -1,2 +1,1 @@
-# e-commerce-site
-E-Commerce site built using HTML,CSS and Bootstrap 
+Copy the existing code in your code editor and customize the content as per your wish
